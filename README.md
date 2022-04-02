@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Arindelle's Hub
 
-You can use the [editor on GitHub](https://github.com/arindelle-13/arindelle-13.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+shown are some of my interests. hope you like it!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Link](<iframe width="560" height="315" src="https://www.youtube.com/embed/jx0lXWUfkAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+
 
 ### Markdown
 
