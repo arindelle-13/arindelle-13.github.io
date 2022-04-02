@@ -2,16 +2,14 @@
 
 shown are some of my interests. hope you like it!
 
-[Link](<iframe width="560" height="315" src="https://www.youtube.com/embed/jx0lXWUfkAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
-
+## music, art, books
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
+[Link](<iframe width="560" height="315" src="https://www.youtube.com/embed/jx0lXWUfkAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 # Header 1
 ## Header 2
 ### Header 3
